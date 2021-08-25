@@ -1,0 +1,6 @@
+Sprint 1:
+1) In the First Sprint we have developed a algorithm for the Flow of execution of the application and designed a flowchart to Build an application
+2) The project is designed using Eclipse and been divided into 3 Modules and a displaying window which has options to choose the operations
+3) For The sprint 1, I have designed the display window and 1 module that is retrieving the files in the Ascending order and some part from the second Module such as Adding and removal of files from the Main folder
+4) I have created main folder which contains set of Files, from which we sort all the files in the Ascending Order by clicking on the respected option from the display window
+
